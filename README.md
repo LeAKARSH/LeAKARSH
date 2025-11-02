@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeAKARSH
 - 👀 I’m interested in ...cars and coding
-- 🌱 I’m currently learning ...python and JAVA
+- 🌱 I’m currently learning ...python and JAVA.... and kinda playing around with AI and ML.
 
 - i like making projects i actually would use or seem kinda cool to use.
 
