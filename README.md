@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @LeAKARSH
 - 👀 I’m interested in ...cars and coding
-- 🌱 I’m currently learning ...python and c
-- 💞️ I’m looking to collaborate on ...(well idk yet)
-- 📫 How to reach me ...
+- 🌱 I’m currently learning ...python and JAVA
+
+- i like making projects i actually would use or seem kinda cool to use.
 
 <!---
 LeAKARSH/LeAKARSH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
